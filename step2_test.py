@@ -21,6 +21,7 @@ a.insert(3, "agnostic")
 print(a)
 b.append("buffalo")
 print(b)
+print("Just now added this to 'test' for verifications.")
 
 
 
