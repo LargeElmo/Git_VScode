@@ -17,5 +17,8 @@ print(type(a[-1]))
 print(a[-1])
 print(type(a[-1:-2]))
 print(a[6][3])
+a.insert(3, "agnostic")
+print(a)
+
 
 
