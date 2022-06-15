@@ -19,6 +19,9 @@ print(type(a[-1:-2]))
 print(a[6][3])
 a.insert(3, "agnostic")
 print(a)
+b.append("buffalo")
+print(b)
+
 
 
 
